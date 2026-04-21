@@ -1,0 +1,5 @@
+{
+  "name": "EcoRoute",
+  "description": "Smart Eco-Friendly Route Planning App with real-time CO2 tracking and sustainable travel options.",
+  "requestFramePermissions": ["geolocation"]
+}
